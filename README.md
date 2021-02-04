@@ -1,1 +1,3 @@
 # docker_xdebug_test
+
+dockerのextra_hostsを自分のIPの環境へ変更する必要あり。
